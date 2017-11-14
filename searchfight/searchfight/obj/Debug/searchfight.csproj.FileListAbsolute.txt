@@ -1,0 +1,7 @@
+D:\cignium\searchfight_app\searchfight\searchfight\bin\Debug\searchfight.exe
+D:\cignium\searchfight_app\searchfight\searchfight\obj\Debug\searchfight.csprojResolveAssemblyReference.cache
+D:\cignium\searchfight_app\searchfight\searchfight\obj\Debug\searchfight.exe
+D:\cignium\searchfight_app\searchfight\searchfight\obj\Debug\searchfight.pdb
+D:\cignium\searchfight_app\searchfight\searchfight\bin\Debug\searchfight.pdb
+D:\cignium\searchfight_app\searchfight\searchfight\bin\Debug\HtmlAgilityPack-PCL.dll
+D:\cignium\searchfight_app\searchfight\searchfight\bin\Debug\HtmlAgilityPack-PCL.xml
